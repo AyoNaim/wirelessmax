@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">wirelessmaxnetwork</string>
+    <string name="title_activity_main">wirelessmaxnetwork</string>
+    <string name="package_name">com.api.wirelessmaxnetwork</string>
+    <string name="custom_url_scheme">com.api.wirelessmaxnetwork</string>
+</resources>
